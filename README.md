@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartik14
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently working in Speech Processing at Samsung Korea
+- 👀 I'm interesting in Software Development(full stack), Machine Learning and Data Science
+- 🌱 I’m currently working in Speech Processing at Samsung Electronics, South Korea
 - 📫 How to reach me kartikkhandelwal1998_at_gmail.com
 
 <!---
